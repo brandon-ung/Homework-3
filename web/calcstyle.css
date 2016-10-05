@@ -33,3 +33,7 @@ td{
     padding: 5px;
     font-size: 1.1em;
 }
+
+#resultTable td{
+    border-bottom: 1px solid black;
+}
